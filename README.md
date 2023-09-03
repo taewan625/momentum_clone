@@ -31,7 +31,7 @@
 
 - 페이지별 구현
 1. index page  
-시간, 날씨, to-do, user-name, 명언  나타남
+시간, 날씨, to-do, user-name, 명언  나타남  
 API-KEY 는 git ignore 되어서 gh-pages 에선 나타나지 않음. local server에 적용된 날씨 이미지 대체
 <img width="450" height="300" alt="스크린샷 2023-09-03 오후 6 08 08" src="https://user-images.githubusercontent.com/104051002/265252832-e75eb147-1e76-471f-a1c2-d86465f99fa0.png" style="max-width: 100%;">
 <img width="450" height="300" alt="스크린샷 2023-09-03 오후 4 20 58" src="https://user-images.githubusercontent.com/104051002/265251065-1ea13fe5-256b-4a5e-b967-91c7e669b59d.png" style="max-width: 100%;">
